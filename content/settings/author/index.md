@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Susanne"
-image = ""
+image = "/media/iconmond.png"
 email = ""
 +++
