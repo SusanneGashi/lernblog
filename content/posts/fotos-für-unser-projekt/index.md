@@ -8,6 +8,8 @@ description = ""
 +++
 ![Fotos Wanddekoration](bild-wand.png)
 
+![](img_9208.png)
+
 ![](img_9212.png)
 
 ![](img_9210.png)
